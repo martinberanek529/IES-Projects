@@ -15,7 +15,9 @@ Each course project has its own folder. Inside each folder, the structure may in
 
 ## Projects included
 
-### Advanced Econometrics: Do better grades improve student evaluation of courses?
+### Advanced Econometrics (WS of 2025/2026)
+
+**Do better grades improve student evaluation of courses?**
 
 This project studies the relationship between students' average grades and course evaluations at the Institute of Economic Studies. The motivation is to examine whether better grades are associated with better course evaluations, which relates to the broader discussion about grading leniency and possible bias in student evaluations of teaching.
 
@@ -25,7 +27,9 @@ The empirical analysis applies several econometric methods, including pooled OLS
 
 My contribution: I worked on the coding and empirical analysis for this project. I prepared and ran the econometric models and contributed to interpreting the results, but I did not write the final report itself.
 
-### Data Science with R I: Predicting speaker performance in debates
+### Data Science with R I (WS of 2025/2026)
+
+**Predicting speaker performance in debates**
 
 This project analyzes individual and team performance in competitive debating. The dataset contains real-world debate tournament data covering multiple seasons and many speaker-level observations. It includes information on speaker scores, team composition, debate motions, tournament stages, sides in debates, experience, and teammate performance.
 
@@ -35,7 +39,9 @@ The main findings suggest that teammate quality is an important predictor of spe
 
 My contribution: I did not work on the coding part of this project. My main contribution was writing the majority of the final report and helping present and interpret the results clearly.
 
-### Financial Econometrics I: Volatility modelling and forecasting
+### Financial Econometrics I (SS of 2025/2026)
+
+**Volatility modelling and forecasting**
 
 This project focuses on financial volatility forecasting. The analysis uses data for Asset 29, including daily returns and realized measures such as realized volatility, positive and negative realized volatility components, realized skewness, and realized kurtosis.
 
